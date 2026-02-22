@@ -3,3 +3,4 @@ Line 2 from branch1
 Line 3 from branch1
 new change 1 in branch1
 new change 2 in branch1
+new change 3 in branch1
